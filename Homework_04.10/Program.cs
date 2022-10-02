@@ -1,4 +1,5 @@
-﻿int k = 0;
+﻿Console.WriteLine("Введите ваше число: ");
+int k = 0;
 double kth_term;
 double sum = 0;
 double eps = double.Parse(Console.ReadLine());
